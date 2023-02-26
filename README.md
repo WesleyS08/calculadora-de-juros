@@ -1,4 +1,3 @@
-# calculadora-de-juros-
 Um projeto de calculadora de juros usando HTML, CSS e JavaScript seria uma aplicação web interativa que permite aos usuários inserir valores de empréstimos e taxas de juros para calcular a quantia total de juros a ser paga.
 
 O layout do aplicativo pode ser criado usando HTML e CSS para criar uma interface gráfica de usuário (GUI) atraente e responsiva. A calculadora pode ser organizada em uma ou mais telas com áreas de entrada para o usuário inserir o valor do empréstimo, a taxa de juros, a duração do empréstimo, e outros campos relevantes. O aplicativo também pode incluir botões para o usuário selecionar o tipo de juros (simples ou composto) e para iniciar o cálculo.
